@@ -1,3 +1,5 @@
 # MRI-Retrieval
 Retrieval of Brain MRI image
-Functions to augment training data.
+
+# augmentation.py -->  Functions to augment training data.
+
