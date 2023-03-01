@@ -34,6 +34,6 @@ The Overall framework of our proposed approach. We feed a mini-batch of samples 
 ## Top nine retrieved output
  ![image](https://user-images.githubusercontent.com/62350791/222163971-4b7a6849-a7bd-4cec-aa6f-145ff2a6c519.png)
  ## Overall performance (Mean Average Precision - MAP)
- <img width="459" alt="image" src="https://user-images.githubusercontent.com/62350791/222164356-2f57b229-c55b-440d-bb85-a2902f3f3b0d.png">
+ <img width="650" alt="image" src="https://user-images.githubusercontent.com/62350791/222164356-2f57b229-c55b-440d-bb85-a2902f3f3b0d.png">
 
 
