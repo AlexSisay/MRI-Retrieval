@@ -1,7 +1,6 @@
 # MRI-Retrieval
 ## Retrieval of Brain MRI image
 
-## augmentation.ipynb -->  Functions to augment training data.
 ## Preprocessing.ipynb --> Class including the following Functions :
 ![image](https://user-images.githubusercontent.com/62350791/222165148-f16f8a55-c7b0-4da9-9716-95341c8aba4a.png)
 
@@ -28,7 +27,7 @@ The Overall framework of our proposed approach. We feed a mini-batch of samples 
 ## Examples of input neuroimages, their corresponding extracted features and hash codes using handedness label for different 𝑘
 ![image](https://user-images.githubusercontent.com/62350791/222164765-0aea61f4-a10e-4b59-acd1-6494bbf79818.png)
 
-# Example 
+# Result - Example 
 ## Query image
 ![image](https://user-images.githubusercontent.com/62350791/222163851-5bceaff2-ab82-4f4c-a09d-660ba083e24c.png)
 
